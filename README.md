@@ -18,3 +18,6 @@ I'm **Bocchi**.
 
 - 对Agent，MCP和RPA感兴趣，在业余时间学习。
 
+## Share
+
+- [Seeklike](https://blog.csdn.net/2401_86807530?type=blog)：个人学习到的杂七杂八的东西有机会会发在CSDN博客上。
